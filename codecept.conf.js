@@ -13,7 +13,7 @@ exports.config = {
   helpers: {
     Playwright: {
       url: 'https://www.apple.com',
-      show: true,
+      show: false,
       browser: 'chromium'
     }
   },
